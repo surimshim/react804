@@ -2,3 +2,4 @@
 - CUI(Character User Interface)
 - CLI(Command Line Interface)
 
+터미널 단축키: ctrl + `
