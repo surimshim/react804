@@ -1,0 +1,4 @@
+텍스트 기반 명령어를 사용하여 컴퓨터를 조작하는 방식
+- CUI(Character User Interface)
+- CLI(Command Line Interface)
+
