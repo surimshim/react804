@@ -3,3 +3,16 @@
 - CLI(Command Line Interface)
 
 터미널 단축키: ctrl + `
+
+리액트 프로젝트 생성
+1. CDN
+2. CRA
+3. Vite
+
+ES6
+1. const, let
+2. () => {}
+3. (조건) ? 참 : rjwlt
+4. 모듈화: export defualt, import
+5. map()
+6. ...
